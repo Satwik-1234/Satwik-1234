@@ -1,30 +1,142 @@
-<h1 align="center">Hi 👋, I'm Satwik Udupi</h1>
-<h3 align="center">A passionate Agriculture Engineer by profession expanding my expertise in water resources and geospatial techologies</h3>
+<!--
+README.md for: Satwik Kamlakar Udupi
+Feel free to tweak text, links, and GIFs as you like.
+-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satwik-1234" alt="satwik-1234" /></a> </p>
+<!-- Hero section with GIF background -->
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlGmQ7TQ7nXkGGA/giphy.gif" width="100%" alt="GIS Earth Data Animation">
+</div>
 
-- 🌱 I’m currently learning **Automation, Web mapping,and IoT integration geospatial tools**
+<br>
 
-- 👯 I’m looking to collaborate on **Automation of Hydrological Analysis tools and softwares**
+<h1 align="center">🌍 Satwik Kamlakar Udupi</h1>
 
-- 👨‍💻 All of my projects are available at [https://satwikkludupi.lovable.app](https://satwikkludupi.lovable.app)
+<h3 align="center">
+  Agricultural Engineer • GIS & Water Resources Professional
+</h3>
 
-- 💬 Ask me about **Hydrological modelling and Floodplain mapping**
-
-- 📫 How to reach me **satwikudupi@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QKJ2Jedd6gD6DlIUq_5cKwgcCxyfzex5/view?usp=drivesdk](https://drive.google.com/file/d/1QKJ2Jedd6gD6DlIUq_5cKwgcCxyfzex5/view?usp=drivesdk)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/satwik-udupi-37304a231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satwik-udupi-37304a231" height="30" width="40" /></a>
-<a href="https://fb.com/satwik udupi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="satwik udupi" height="30" width="40" /></a>
-<a href="https://instagram.com/007_wik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="007_wik" height="30" width="40" /></a>
+<p align="center">
+  🌱 Hydrology • 🌊 Flood & Dam Breach Modeling • 🛰️ Remote Sensing • 🗺️ Geospatial Analytics
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satwik-1234&show_icons=true&locale=en&layout=compact" alt="satwik-1234" /></p>
+## 👋 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satwik-1234&show_icons=true&locale=en" alt="satwik-1234" /></p>
+- My name is **Satwik Kamlakar Udupi**.  
+- I am an **agricultural engineer** with a focus on **GIS and water resources**.  
+- I work on hydrological and hydraulic modeling, flood inundation mapping, dam breach analysis, soil erosion (RUSLE), and watershed studies.  
+- I am also a **photographer**, **motorrad (motorcycle enthusiast)**, and **artist** who loves visual storytelling and maps.  
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Programming Languages
+
+- R  
+- Python  
+- JavaScript  
+- TypeScript  
+- HTML  
+
+### 📊 Geo & Data Libraries / Frameworks
+
+- scikit-learn  
+- GeoPandas  
+- Rasterio  
+- Plotly  
+- GDAL  
+- GRASS GIS  
+- ggplot2  
+- TensorFlow  
+- Keras  
+- PyTorch  
+- And other **GIS / RS / ML** tools for spatial analysis and modeling  
+
+---
+
+## 🛰️ Software & Platforms
+
+<div align="center">
+
+<!-- Desktop GIS / RS -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/QGIS_logo_new.svg" alt="QGIS" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/02/ArcGIS_logo.png" alt="ArcGIS" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Google_Earth_icon.svg" alt="Google Earth Pro" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/ERDAS_Imagine_logo.png" alt="ERDAS IMAGINE" height="40"/>
+
+<br>
+
+<!-- Web / Cloud GIS -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Google_Earth_Engine_logo.png" alt="Google Earth Engine" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" height="40"/>
+
+<br>
+
+<!-- Photogrammetry / Drone -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Agisoft_Metashape_Logo.png" alt="Agisoft Metashape" height="40"/>
+<img src="https://uploads-ssl.webflow.com/5ee10e230aa627396b28dc59/5ee10e230aa6273a5c28dc93_logo-dronedeploy.svg" alt="DroneDeploy" height="40"/>
+
+</div>
+
+### 🧮 Hydro & Modeling Tools
+
+- HEC-HMS  
+- HEC-RAS (1D/2D, unsteady flow, dam breach)  
+- RAS Mapper / RAS Alpha  
+- ArcGIS & ArcGIS Pro  
+- WebODM  
+- Google Earth Pro  
+- ERDAS IMAGINE  
+- Agisoft Metashape  
+- Google Earth Engine  
+- Google Colab  
+- Jupyter Notebook  
+- DroneDeploy  
+
+---
+
+## 🌐 Social & Contact
+
+> Replace `#` with your actual URLs/usernames.
+
+- 🌎 Portfolio: `https://your-portfolio-link.com`
+- 📧 Gmail: `satwikudupi2018@gmail.com`
+- 💬 WhatsApp: `https://wa.me/919834300849`
+- 🐙 GitHub: `https://github.com/your-github-username`
+- 🔗 LinkedIn: `https://www.linkedin.com/in/your-linkedin-id`
+- 📘 Facebook: `https://facebook.com/your-facebook-id`
+
+---
+
+## 🗣️ Languages I Speak
+
+- Hindi  
+- English  
+- Marathi  
+- Kannada  
+
+---
+
+## 📍 Location
+
+- AT POST **Vidyanagar**, TAL-**Karad**, DIST-**Satara**, **415124**, Maharashtra, India  
+
+---
+
+## 🎨 Beyond Code
+
+- 📷 **Photographer** – landscapes, riverscapes, and field work documentation  
+- 🏍️ **Motorrad** – riding to remote catchments and hill stations  
+- 🖌️ **Artist** – maps, illustrations, and technical graphics for reports & presentations  
+
+---
+
+<div align="center">
+  
+  🌧️ *Turning raw data into meaningful maps and resilient water solutions.* 🌊  
+
+</div>

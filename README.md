@@ -394,8 +394,11 @@ Wildlife Conservation • Engineering Lab
 ---
 
 ### 🎨 WHEN I'M NOT MODELING FLOODS
-<img src="(https://www.pinterest.com/ideas/bike-gif/924600365283/)" width="1000">
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/93/e8/5e/93e85e47b068cb322280710ca9221df6.gif)" width="100%" />
+
+  
 <table>
 <tr>
 <td width="33%" align="center">

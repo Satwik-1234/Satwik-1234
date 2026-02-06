@@ -257,12 +257,7 @@ class SatwikOS:
 ```
 
 <div align="center">
-
-![Explosive Badge](https://img.shields.io/badge/⚡_EXPLOSIVE-FF6B6B?style=for-the-badge)
-![Fast Badge](https://img.shields.io/badge/🏍️_FAST-4ECDC4?style=for-the-badge)
-![Leaky Badge](https://img.shields.io/badge/🛢️_LEAKS_OIL-95E1D3?style=for-the-badge)
-![Expensive Badge](https://img.shields.io/badge/💰_EXPENSIVE-F38181?style=for-the-badge)
-
+  
 ![Physics](https://img.shields.io/badge/Fanboy-PHYSICS-1F2937?style=for-the-badge&logo=atom&logoColor=white)
 ![Hydraulics](https://img.shields.io/badge/Obsessed-HYDRAULICS-111827?style=for-the-badge&logo=waves&logoColor=white)
 ![Chaos](https://img.shields.io/badge/Lover-FLUID_CHAOS-0F172A?style=for-the-badge&logo=turborepo&logoColor=white)
@@ -396,8 +391,8 @@ Wildlife Conservation • Engineering Lab
 ### 🎨 WHEN I'M NOT MODELING FLOODS
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/93/e8/5e/93e85e47b068cb322280710ca9221df6.gif)" width="100%" />
-
+  <img src="https://giffiles.alphacoders.com/173/17376.gif" width="100%" alt="Pravaha Tattva Banner">
+  <br>
   
 <table>
 <tr>
@@ -456,10 +451,9 @@ Making data beautiful
 </div>
 
 ---
-
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
+  <img src="https://images.blz-contentstack.com/v3/assets/blta7b34f1f894a2422/blt2e8ed8cd639da37c/664e0461270e554d3af10106/ui_icon_callingcards_Airguitar.gif" width="100%" />
+</div>
 
 ### *"If it flows, floods, fractures, or flashes on a satellite image — I probably want to model it."*
 

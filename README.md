@@ -45,7 +45,8 @@
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS Code Insiders](https://img.shields.io/badge/VS_Code_Insiders-24bfa5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
@@ -67,31 +68,31 @@
 ![QGIS](https://img.shields.io/badge/qgis-3.28_firenze-93b023?&style=for-the-badge&logo=qgis&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
 ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-0078D4?style=for-the-badge&logo=arcgis&logoColor=white)
-![Google Earth Engine](https://custom-icon-badges.demolab.com/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)
-![Google Earth Pro](https://img.shields.io/badge/Google_Earth_Pro-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)
-![ERDAS IMAGINE](https://img.shields.io/badge/ERDAS_IMAGINE-0A6C8B?style=for-the-badge&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge)
-![Rasterio](https://img.shields.io/badge/Rasterio-005C97?style=for-the-badge)
-![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge)
-![GRASS GIS](https://img.shields.io/badge/GRASS_GIS-088B2E?style=for-the-badge)
+![Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)
+![Google Earth](https://img.shields.io/badge/Earth_Pro-34A853?style=for-the-badge&logo=google&logoColor=white)
+![ERDAS](https://img.shields.io/badge/ERDAS_IMAGINE-0A6C8B?style=for-the-badge&logo=satellite&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=pandas&logoColor=white)
+![Rasterio](https://img.shields.io/badge/Rasterio-005C97?style=for-the-badge&logo=raster&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge&logo=osgeo&logoColor=white)
+![GRASS GIS](https://img.shields.io/badge/GRASS_GIS-088B2E?style=for-the-badge&logo=grass&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=Mapbox&logoColor=white)
 
 ### 📸 Photogrammetry & UAV Processing
 
-![Agisoft Metashape](https://custom-icon-badges.demolab.com/badge/Agisoft_Metashape-1E88E5?style=for-the-badge&logoColor=white)
-![WebODM](https://img.shields.io/badge/WebODM-00695C?style=for-the-badge)
-![DroneDeploy](https://img.shields.io/badge/DroneDeploy-0C6CF2?style=for-the-badge)
-![Pix4D](https://img.shields.io/badge/Pix4D-00A8E1?style=for-the-badge)
-![CloudCompare](https://img.shields.io/badge/CloudCompare-0E4C92?style=for-the-badge)
+![Metashape](https://img.shields.io/badge/Agisoft_Metashape-1E88E5?style=for-the-badge&logo=agisoft&logoColor=white)
+![WebODM](https://img.shields.io/badge/WebODM-00695C?style=for-the-badge&logo=drone&logoColor=white)
+![DroneDeploy](https://img.shields.io/badge/DroneDeploy-0C6CF2?style=for-the-badge&logo=drone&logoColor=white)
+![Pix4D](https://img.shields.io/badge/Pix4D-00A8E1?style=for-the-badge&logo=pix4d&logoColor=white)
+![CloudCompare](https://img.shields.io/badge/CloudCompare-0E4C92?style=for-the-badge&logo=cloud&logoColor=white)
 
 ### 🌊 Hydraulic & Hydrological Modeling
 
-![HEC-RAS](https://custom-icon-badges.demolab.com/badge/HEC--RAS-1D_|_2D-4C1D95?style=for-the-badge&logoColor=white)
-![HEC-HMS](https://custom-icon-badges.demolab.com/badge/HEC--HMS-Rainfall_Runoff-6A1B9A?style=for-the-badge&logoColor=white)
-![RAS Mapper](https://custom-icon-badges.demolab.com/badge/RAS_Mapper-Alpha-512DA8?style=for-the-badge&logoColor=white)
-![SWAT](https://img.shields.io/badge/SWAT-Watershed_Analysis-2E7D32?style=for-the-badge)
-![MIKE](https://img.shields.io/badge/MIKE-Hydro_Dynamic-0277BD?style=for-the-badge)
+![HEC-RAS](https://img.shields.io/badge/HEC--RAS-1D_|_2D_Modeling-4C1D95?style=for-the-badge&logo=water&logoColor=white)
+![HEC-HMS](https://img.shields.io/badge/HEC--HMS-Rainfall_Runoff-6A1B9A?style=for-the-badge&logo=rain&logoColor=white)
+![RAS Mapper](https://img.shields.io/badge/RAS_Mapper-Geospatial-512DA8?style=for-the-badge&logo=map&logoColor=white)
+![SWAT](https://img.shields.io/badge/SWAT-Watershed_Analysis-2E7D32?style=for-the-badge&logo=watershed&logoColor=white)
+![MIKE](https://img.shields.io/badge/MIKE-Hydro_Dynamic-0277BD?style=for-the-badge&logo=water&logoColor=white)
 
 ### ⚙️ Engineering Simulation & CFD
 
@@ -102,13 +103,11 @@
 ![COMSOL](https://img.shields.io/badge/COMSOL-0063A6?style=for-the-badge)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-0076A8?style=for-the-badge&logo=autodesk&logoColor=white)
 
-### 🎨 Design & Visualization
+### 🎨 Design & Visual Processing
 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Snapseed](https://img.shields.io/badge/Snapseed-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -122,38 +121,111 @@
 
 </div>
 
-### 🌊 WATER • FLOOD • RISK ENGINEERING
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-```yaml
-Dam Breach Analysis: Koyna dam PMF/PMP scenarios → Catastrophic failure modeling
-Flood Simulation: 1D/2D HEC-RAS → Manning's n calibration → Inundation mapping
-Rainfall-Runoff: HEC-HMS design storms → Reservoir routing → Peak discharge
-Risk Zonation: AHP multi-criteria analysis → Flood susceptibility mapping
+### 🌊 HYDRAULIC WARFARE
+
+**Dam Breach Catastrophe Modeling**
+```python
+scenario = "Koyna Dam PMF/PMP"
+method = "1D/2D HEC-RAS unsteady flow"
+output = "100+ km² inundation maps"
+calibration = "Manning's n • field validation"
 ```
 
-**🎯 Impact:** Predictive flood models for 100+ km² floodplains | Risk maps for evacuation planning
+**Flood Risk Engineering**
+- Peak discharge forecasting → HEC-HMS design storms
+- Reservoir routing → Dam safety analysis
+- AHP multi-criteria risk zonation
+- Evacuation route optimization
 
-### 🌍 LAND • EROSION • CHANGE DETECTION
+> *Predicting where water will destroy, so humans don't have to find out the hard way*
 
+</td>
+<td width="50%" valign="top">
+
+### 🛰️ EARTH INTELLIGENCE
+
+**Multi-Spectral Analysis Suite**
 ```yaml
-Soil Loss Mapping: RUSLE framework → Western Ghats terrain → Annual sediment yield
-Erosion Dynamics: Multi-temporal Landsat analysis → Shoreline change detection
-Spectral Indices: NDVI | NDWI | MNDWI | BSI | SAVI | EVI | UI → Land health monitoring
-Time Series: 30+ year satellite records → Landscape evolution patterns
+Indices:
+  - NDVI: Vegetation health monitoring
+  - NDWI/MNDWI: Water body dynamics
+  - BSI: Bare soil mapping
+  - SAVI/EVI: Enhanced vegetation
+  - UI: Urban sprawl tracking
 ```
 
-**🎯 Impact:** Erosion hotspot identification | Climate change impact assessment
+**Erosion Dynamics & Change Detection**
+- RUSLE framework → Western Ghats soil loss
+- 30+ year Landsat time series analysis
+- Shoreline erosion/accretion modeling
+- Climate impact quantification
 
-### 📸 DRONES • PHOTOGRAMMETRY • 3D RECONSTRUCTION
+> *Reading Earth's story through satellite pixels and spectral signatures*
 
-```yaml
-UAV Processing: Structure-from-Motion → Dense point clouds → Orthomosaics
-Terrain Models: DSM/DEM generation → Sub-5cm resolution → Volumetric analysis
-Wildlife Mapping: Camera trap data cleaning → Hotspot analysis → Species distribution
-Deliverables: High-impact visual reports → Stakeholder presentations → Interactive 3D models
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📸 PRECISION PHOTOGRAMMETRY
+
+**UAV → Reality Conversion Pipeline**
+```bash
+INPUT: Drone imagery (RGB/Multispectral)
+PROCESS: Structure-from-Motion + Dense matching
+OUTPUT: Sub-5cm DSM/DEM + Orthomosaics
+BONUS: 3D point clouds + Volumetric analysis
 ```
 
-**🎯 Impact:** Precision agriculture mapping | Wildlife corridor identification | Infrastructure monitoring
+**Geospatial Intelligence Deliverables**
+- High-precision terrain models
+- Change detection workflows
+- Stakeholder visual reports
+- Interactive 3D reconstructions
+
+> *Turning flying cameras into centimeter-accurate digital twins*
+
+</td>
+<td width="50%" valign="top">
+
+### 🐾 WILDLIFE SPATIAL ANALYTICS
+
+**Camera Trap Data Processing**
+```python
+workflow = {
+    "raw_data": "10,000+ trap images",
+    "cleaning": "species ID + timestamps",
+    "analysis": "hotspot detection",
+    "output": "corridor mapping + reports"
+}
+```
+
+**Conservation Geomatics**
+- Species distribution modeling
+- Habitat suitability analysis
+- Movement corridor identification
+- Human-wildlife conflict zones
+
+> *Mapping where wild things are, so we know where humans shouldn't be*
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**⚡ IMPACT METRICS ⚡**
+
+![Projects](https://img.shields.io/badge/Active_Projects-15+-00E5FF?style=for-the-badge&logo=target&logoColor=white)
+![Area Covered](https://img.shields.io/badge/Total_Area-500+_km²-4ECDC4?style=for-the-badge&logo=map&logoColor=white)
+![Resolution](https://img.shields.io/badge/Max_Resolution-Sub--5cm-FF6B6B?style=for-the-badge&logo=ruler&logoColor=white)
+![Data Points](https://img.shields.io/badge/Data_Points-1M+-F38181?style=for-the-badge&logo=database&logoColor=white)
+
+</div>
 
 ---
 
@@ -201,42 +273,116 @@ class SatwikOS:
 
 <div align="center">
 
-## 🎓 CREDENTIALS & EXPERIENCE
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+## 🎯 CREDENTIALS & BATTLE SCARS
 
 </div>
 
-```mermaid
-graph LR
-    A[B.Tech Agricultural Engineering] --> B[GIS Specialization]
-    B --> C[Hydrology & Remote Sensing]
-    C --> D[Climate Research]
-    C --> E[River Restoration NGO]
-    C --> F[Wildlife Conservation]
-    D --> G[Pravaha Tattva Solutions]
-    E --> G
-    F --> G
-```
+<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="80"/>
+
+**🎓 ACADEMIC FOUNDATION**
+
+B.Tech Agricultural Engineering  
+*Specialization: GIS • Hydrology • Remote Sensing*
+
+![Degree](https://img.shields.io/badge/Status-Graduated-00E5FF?style=flat-square)
+
+</td>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80"/>
+
+**💼 PRAVAHA TATTVA SOLUTIONS**
+
+Founder & Lead Geospatial Engineer  
+*Water Resources • Hydraulic Modeling • GIS*
+
+![Status](https://img.shields.io/badge/Status-Active-4ECDC4?style=flat-square)
+
+</td>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/>
+
+**🔬 DOMAIN EXPERTISE**
+
+Climate Research • River Restoration  
+Wildlife Conservation • Engineering Lab
+
+![Experience](https://img.shields.io/badge/Years-5+-FF6B6B?style=flat-square)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+### ⚔️ EXPERIENCE ARSENAL
+
+<table>
+<tr>
+<td width="50%">
+
+**🌊 WATER RESOURCES ENGINEERING**
+- Panchganga River Basin comprehensive studies
+- Western Ghats watershed characterization
+- Dam safety & breach analysis protocols
+- Flood risk mapping for vulnerable regions
+
+</td>
+<td width="50%">
+
+**🌿 ENVIRONMENTAL & CONSERVATION**
+- Resilient River Ghod restoration initiative
+- Wildlife corridor mapping & analytics
+- Camera trap data processing workflows
+- Community-based conservation planning
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🛰️ REMOTE SENSING & GIS**
+- Multi-spectral satellite imagery analysis
+- Time-series change detection studies
+- High-resolution UAV photogrammetry
+- Terrain modeling & spatial analytics
+
+</td>
+<td width="50%">
+
+**⚙️ ENGINEERING SIMULATION**
+- FEA/CFD on agricultural machinery
+- Structural & thermal analysis
+- Tool room optimization studies
+- Equipment performance modeling
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-![Degree](https://img.shields.io/badge/🎓_B.Tech-Agricultural_Engineering-0F172A?style=for-the-badge)
-![Specialization](https://img.shields.io/badge/🗺️_Specialized-GIS_|_Hydrology_|_Remote_Sensing-111827?style=for-the-badge)
-![Experience](https://img.shields.io/badge/💼_Experience-Research_|_NGO_|_Wildlife_|_Climate-1D283A?style=for-the-badge)
+**🏆 CORE COMPETENCIES**
+
+![Hydraulic Modeling](https://img.shields.io/badge/Hydraulic_Modeling-Expert-4C1D95?style=for-the-badge)
+![GIS Analysis](https://img.shields.io/badge/GIS_Analysis-Expert-2C7AC3?style=for-the-badge)
+![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-Expert-4285F4?style=for-the-badge)
+![UAV Processing](https://img.shields.io/badge/UAV_Processing-Expert-1E88E5?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data_Science-Advanced-FF6F00?style=for-the-badge)
+![CFD Analysis](https://img.shields.io/badge/CFD_Analysis-Advanced-FFB300?style=for-the-badge)
 
 </div>
-
-### 🔬 Research & Projects
-- **Climate Change Center** → Panchganga basin studies | Western Ghats sustainability
-- **River Restoration** → Resilient River Ghod initiative | Community-based conservation
-- **Engineering Lab** → FEA/CFD on agricultural machinery | Thermal & structural analysis
 
 ---
 
 <div align="center">
 
 ## 🌍 LANGUAGES & OFF-TRACK SELF
+
 
 ### 💬 Spoken Languages
 
@@ -245,11 +391,46 @@ graph LR
 ![Marathi](https://img.shields.io/badge/Marathi-4CAF50?style=for-the-badge&logo=google-translate&logoColor=white)
 ![Kannada](https://img.shields.io/badge/Kannada-9C27B0?style=for-the-badge&logo=google-translate&logoColor=white)
 
-### 🎨 Creative Pursuits
+---
 
-![Photography](https://img.shields.io/badge/📷_Photography-Rivers_|_Clouds_|_Wildlife-000000?style=for-the-badge&logo=unsplash&logoColor=white)
-![Motorcycles](https://img.shields.io/badge/🏍️_Motorrad-Two_Wheels_|_Long_Rides-212121?style=for-the-badge&logo=ducati&logoColor=white)
-![Design](https://img.shields.io/badge/🎨_Visual_Artist-Maps_|_Posters_|_Reports-6A1B9A?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)
+### 🎨 WHEN I'M NOT MODELING FLOODS
+<img src="(https://www.pinterest.com/ideas/bike-gif/924600365283/)" width="1000">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+
+**📷 VISUAL STORYTELLER**
+
+Rivers • Clouds • Wildlife  
+Nature in its rawest form
+
+![Photography](https://img.shields.io/badge/Photography-000000?style=flat-square&logo=unsplash&logoColor=white)
+
+</td>
+<td width="33%" align="center">
+
+**🏍️ MOTORRAD ENTHUSIAST**
+
+Two wheels, long roads  
+Where speed meets freedom
+
+![Motorcycles](https://img.shields.io/badge/Motorcycles-212121?style=flat-square&logo=ducati&logoColor=white)
+</td>
+<td width="33%" align="center">
+
+**🎨 MAP ARTIST**
+
+Visual reports • Posters  
+Making data beautiful
+
+![Design](https://img.shields.io/badge/Visual_Design-6A1B9A?style=flat-square&logo=adobe-creative-cloud&logoColor=white)
+
+</td>
+</tr>
+</table>
+
 
 </div>
 
@@ -281,8 +462,6 @@ graph LR
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
 **⚡ Built with chaos, precision, and way too much coffee ⚡**
 
 [![Portfolio](https://img.shields.io/badge/🌐_EXPLORE_PORTFOLIO-satwikkludupi.lovable.app-00E5FF?style=for-the-badge)](https://satwikkludupi.lovable.app)
@@ -291,5 +470,4 @@ graph LR
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=75"/>
 
-</div>
 </div>

@@ -18,7 +18,7 @@
 #### Which explains my love for dams, bikes, and high-end sensors.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://satwikkludupi.lovable.app)
-[![Services](https://img.shields.io/badge/Services-4ECDC4?style=for-the-badge&logo=rocket&logoColor=white)](https://preview--satwikkludupi.lovable.app/pravaha-tattva-servises)
+[![Services](https://img.shields.io/badge/Services-4ECDC4?style=for-the-badge&logo=rocket&logoColor=white)](https://preview--satwikkludupi.lovable.app/pravaha-tattva)
 [![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-Satwik--1234-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Satwik-1234)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satwik-udupi-37304a231)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/007_wik)

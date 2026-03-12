@@ -1,10 +1,6 @@
 <div align="center">
-
-<!-- Dynamic typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=SATWIK+KAMLAKAR+UDUPI;Founder+%E2%80%A2+Pravaha+Tattva+Solutions)](https://satwikkludupi.lovable.app)
-
-<!-- Animated subtitle -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=B2EBF2&center=true&vCenter=true&width=1000&lines=GIS+%7C+Hydrology+%7C+Remote+Sensing+%7C+Hydraulic+Modeling;Physics+Fanboy+%E2%80%A2+River+Hydraulics+%E2%80%A2+Satellite+Pixel+Wizard;Making+Gravity%2C+Turbulence+%26+Code+Work+in+My+Favor)](https://satwikkludupi.lovable.app)
+ 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:03045e,40:0077b6,80:0096c7,100:48cae4&height=260&section=header&text=SATWIK%20KAMLAKAR%20UDUPI&fontSize=56&fontColor=caf0f8&animation=fadeIn&fontAlignY=42&desc=Hydraulic%20Engineer%20%E2%80%A2%20Geospatial%20Professional%20%E2%80%A2%20Founder%20%E2%80%A2%20Pravaha%20Tattva%20Solutions&descAlignY=60&descSize=14&descColor=90e0ef"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -14,7 +10,7 @@
 
 <div align="center">
 
-### 🌊 *"Everything I like is either explosive, goes fast, leaks oil, or is expensive"*
+### 🌊 *"Everything I like is either explosive, goes fast, leaks oil"*
 #### Which explains my love for dams, bikes, and high-end sensors.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://satwikkludupi.lovable.app)
